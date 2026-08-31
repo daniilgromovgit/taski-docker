@@ -1,0 +1,8 @@
+[format]
+exclude = ["backend/api/tests.py"]
+
+[lint]
+exclude = ["backend/api/tests.py"]
+
+[format]
+exclude = ["backend/api/tests.py"]
